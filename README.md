@@ -131,3 +131,13 @@ For a live version, go [here](https://replit.com/@grandeurkoe/higher-lower-game?
 ![Higher Lower Game](higher-lower-game/higher-lower-game.gif)
 
 <hr />
+
+### Day 015 - The Coffee Machine
+
+This project simulates the coffee machine. Get the kind of coffee (espresso/latte/cappuccino) as user input. If the user picks one of the coffee kinds, check if the machine has enough resources. If the machine has enough resources, then check if user has enough money (user input). If all checks are passed, then add money and subtract resources from the coffee machine. If any of the checks fail, then display what went wrong and end the simulation. 
+
+For a live version, go [here](https://replit.com/@grandeurkoe/the-coffee-machine?v=1)
+
+![Higher Lower Game](the-coffee-machine/the-coffee-machine.gif)
+
+<hr />
