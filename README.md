@@ -178,10 +178,20 @@ For a live version, go [here](https://replit.com/@grandeurkoe/mail-merge-project
 
 ### Day 026 - The NATO Alphabet 	
 
-This project generates the TELEPHONY for a given word (where each individual letter is the NATO Phonetic Alphabet). Read the contents of the "nato_phonetic_alphabet.csv" files using the pandas library and store it as a dictionary for quick callback. Get the word for which you want to generate the TELEPHONY as user input. Generate the TELEPHONY for each NATO phonetic alphabet in the word and display it.
+This project generates the TELEPHONY for a given word (where each individual letter is the NATO Phonetic Alphabet). Read the contents of the "nato_phonetic_alphabet.csv" file using the read_csv() function from the pandas library and store it as a dictionary for quick callback. Get the word for which you want to generate the TELEPHONY as user input. Generate the TELEPHONY for each NATO phonetic alphabet in the word and display it.
 
 For a live version, go [here](https://replit.com/@grandeurkoe/the-nato-alphabet-project?v=1)
 
 ![The NATO Alphabet](the-nato-alphabet-project/the-nato-alphabet-project.gif)
+
+<hr />
+
+### Day 032 - Automated Birthday Wisher
+
+This project automatically generates and sends a "Happy birthday" email. Get todays date using the datetime module. Read the contents of the "birthdays.csv" file using the read_csv() function from the pandas library and store it as a dictionary for quick callback. If any of the dates in the dictionary matches with todays date, then randomly select a letter template and replace the [name] in the letter template with the birthday boys/girls name (from dictionary). Finally, send an email to the birthday boy/girl using the smtplib library.
+
+For a live version, go [here](https://replit.com/@grandeurkoe/automated-birthday-wisher?v=1)
+
+![Automated Birthday Wisher](automated-birthday-wisher/automated-birthday-wisher.gif)
 
 <hr />
