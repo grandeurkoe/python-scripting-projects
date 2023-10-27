@@ -124,7 +124,7 @@ For a live version, go [here](https://replit.com/@grandeurkoe/debugging?v=1)
 
 ### Day 014 - Higher Lower Game
 
-This project simulates the higher lower game. Get two random social account details. Get user to pick one of the two social account (A/B) as user input. Compare number of followers of the two social account. Compare social account with  higher follower count from previous comparison with another random social account. End game when the user picks the social account with a lower follower count.
+This project simulates the higher lower game. Get two random social account details. Get user to pick one of the two social account (A/B) as user input. Compare number of followers of the two social account. Compare social account with  higher follower count from previous comparison with another random social account. End game when the user picks social account with a lower follower count.
 
 For a live version, go [here](https://replit.com/@grandeurkoe/higher-lower-game?v=1)
 
@@ -134,10 +134,24 @@ For a live version, go [here](https://replit.com/@grandeurkoe/higher-lower-game?
 
 ### Day 015 - The Coffee Machine
 
-This project simulates the coffee machine. Get the kind of coffee (espresso/latte/cappuccino) as user input. If the user picks one of the coffee kinds, check if the machine has enough resources. If the machine has enough resources, then check if user has enough money (user input). If all checks are passed, then add money and subtract resources from the coffee machine. If any of the checks fail, then display what went wrong and end the simulation. 
+This project simulates the coffee machine. Get the kind of coffee (espresso/latte/cappuccino) as user input. If user picks one of the coffee kinds, check if the machine has enough resources. If the machine has enough resources, then check if user has enough money (user input). If all checks pass, then add money and subtract resources from the coffee machine. If any of the checks fail, then display what went wrong and end the simulation.
+
+During the "What would you like? (espresso/latte/cappuccino) :" prompt, the user can also pick one of the two hidden prompts:
+1. report - Display resources for making coffee and money earned by the coffee machine.
+2. off - Turns of the coffee machine.
 
 For a live version, go [here](https://replit.com/@grandeurkoe/the-coffee-machine?v=1)
 
-![Higher Lower Game](the-coffee-machine/the-coffee-machine.gif)
+![The Coffee Machine](the-coffee-machine/the-coffee-machine.gif)
+
+<hr />
+
+### Day 015 - The Coffee Machine (OOP Version)
+
+This project simulates the coffee machine. This is the OOP Version of the above project.
+
+For a live version, go [here](https://replit.com/@grandeurkoe/the-coffee-machine?v=1)
+
+![The Coffee Machine (OOP Version)](the-coffee-machine/the-coffee-machine.gif)
 
 <hr />
