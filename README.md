@@ -2,7 +2,7 @@
 
 These python scripting projects are built in correspondence with " [100 Days of Code - The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) " course. This course was taught by London's App Brewery top instructor Angela Yang.<br/>
 
-Each project has been built from scratch with minimal to no assistance.<br/><hr />
+Each project has been built from scratch with minimal to no assistance.<br/>
 
 ### Day 001 - Band Name Generator
 
@@ -12,8 +12,6 @@ For a live version, go [here](https://replit.com/@grandeurkoe/band-name-generato
 
 ![Band Name Generator](band-name-generator/band-name-generator.gif)
 
-<hr />
-
 ### Day 002 - Tip Calculator
 
 This project calculates tip based on total bill, number of people to split the bill and the tip percentage (10, 12 or 15). Get total bill, number of people to split the bill and the tip percentage as user input.
@@ -21,8 +19,6 @@ This project calculates tip based on total bill, number of people to split the b
 For a live version, go [here](https://replit.com/@grandeurkoe/tip-calculator?v=1) .
 
 ![Tip Calculator](tip-calculator/tip-calculator.gif)
-
-<hr />
 
 ### Day 003 - Treasure Island
 
@@ -32,8 +28,6 @@ For a live version, go [here](https://replit.com/@grandeurkoe/treasure-island?v=
 
 ![Treasure Island](treasure-island/treasure-island.gif)
 
-<hr />
-
 ### Day 004 - Rock Paper Scissors
 
 This project simulates a simple rock paper scissors game. Get user choice (Rock/Paper/Scissors) as user input. End game when user either loses, wins or draws.
@@ -41,8 +35,6 @@ This project simulates a simple rock paper scissors game. Get user choice (Rock/
 For a live version, go [here](https://replit.com/@grandeurkoe/rock-paper-scissors?v=1) .
 
 ![Rock Paper Scissors](rock-paper-scissors/rock-paper-scissors.gif)
-
-<hr />
 
 ### Day 005 - Password Generator
 
@@ -52,8 +44,6 @@ For a live version, go [here](https://replit.com/@grandeurkoe/password-generator
 
 ![Password Generator](password-generator/password-generator.gif)
 
-<hr />
-
 ### Day 007 - Hangman Game
 
 This project simulates the hangman game. Get guess letter as user input. If guessed letter is not in chosen word, then reduce lives by 1. End game when number of lives are reduced to 0 or when the user has guessed the chosen word.
@@ -61,8 +51,6 @@ This project simulates the hangman game. Get guess letter as user input. If gues
 For a live version, go [here](https://replit.com/@grandeurkoe/hangman?v=1) .
 
 ![Hangman Game](hangman/hangman.gif)
-
-<hr />
 
 ### Day 008 - Caesar Cipher
 
@@ -72,8 +60,6 @@ For a live version, go [here](https://replit.com/@grandeurkoe/caesar-cipher?v=1)
 
 ![Caesar Cipher](caesar-cipher/caesar-cipher.gif)
 
-<hr />
-
 ### Day 009 - Secret Auction
 
 This project simulates a secret auction. Get each bidder's name and bid amount as user input. End secret auction when no more bidders exist and display details of bidder with the highest bid. 
@@ -81,8 +67,6 @@ This project simulates a secret auction. Get each bidder's name and bid amount a
 For a live version, go [here](https://replit.com/@grandeurkoe/secret-auction?v=1) .
 
 ![Secret Auction](secret-auction/secret-auction.gif)
-
-<hr />
 
 ### Day 010 - Calculator
 
@@ -92,8 +76,6 @@ For a live version, go [here](https://replit.com/@grandeurkoe/calculator?v=1) .
 
 ![Calculator](calculator/calculator.gif)
 
-<hr />
-
 ### Day 011 - The Blackjack Game
 
 This project simulates the blackjack game. Generates cards for both user and computer randomly. Calculate user score based on cards drawn. Get user to choose if he wants to draw more cards or not as user input. End game and display the result of blackjack game when either the user or computer wins, draws or loses.
@@ -101,8 +83,6 @@ This project simulates the blackjack game. Generates cards for both user and com
 For a live version, go [here](https://replit.com/@grandeurkoe/the-blackjack-capstone-project?v=1) .
 
 ![The Blackjack Game](the-blackjack-capstone-project/the-blackjack-capstone-project.gif)
-
-<hr />
 
 ### Day 012 - Number Guessing Game
 
@@ -112,15 +92,11 @@ For a live version, go [here](https://replit.com/@grandeurkoe/number-guessing-ga
 
 ![Number Guessing Game](number-guessing-game/number-guessing-game.gif)
 
-<hr />
-
 ### Day 013 - Debugger
 
 This project involves reproducing bugs, playing computer (debug line by line) and using the debugger to debug code. 
 
 For a live version, go [here](https://replit.com/@grandeurkoe/debugging?v=1) .
-
-<hr />
 
 ### Day 014 - Higher Lower Game
 
@@ -129,8 +105,6 @@ This project simulates the higher lower game. Get two random social account deta
 For a live version, go [here](https://replit.com/@grandeurkoe/higher-lower-game?v=1) .
 
 ![Higher Lower Game](higher-lower-game/higher-lower-game.gif)
-
-<hr />
 
 ### Day 015 - The Coffee Machine
 
@@ -144,8 +118,6 @@ For a live version, go [here](https://replit.com/@grandeurkoe/the-coffee-machine
 
 ![The Coffee Machine](the-coffee-machine/the-coffee-machine.gif)
 
-<hr />
-
 ### Day 015 - The Coffee Machine (OOP Version)
 
 This project simulates the coffee machine. This is the OOP Version of the above project.
@@ -153,8 +125,6 @@ This project simulates the coffee machine. This is the OOP Version of the above 
 For a live version, go [here](https://replit.com/@grandeurkoe/the-coffee-machine-oop-version?v=1) .
 
 ![The Coffee Machine (OOP Version)](the-coffee-machine-oop-version/the-coffee-machine-oop-version.gif)
-
-<hr />
 
 ### Day 016 - The Quiz Game
 
@@ -164,8 +134,6 @@ For a live version, go [here](https://replit.com/@grandeurkoe/the-quiz-game?v=1)
 
 ![The Quiz Game](the-quiz-game/the-quiz-game.gif)
 
-<hr />
-
 ### Day 024 - Mail Merge
 
 This project generates birthday invite letters as text files using contents from other text files. Get birthday invite letter template (starting_letter.txt) and names of invitees (invited_names.txt) from their respective text files. Generate birthday invite letters by replacing [name] in 'starting_letter.txt' with names from 'invited_names.txt'.
@@ -173,8 +141,6 @@ This project generates birthday invite letters as text files using contents from
 For a live version, go [here](https://replit.com/@grandeurkoe/mail-merge-project?v=1) .
 
 ![Mail Merge](mail-merge-project/mail-merge-project.gif)
-
-<hr />
 
 ### Day 026 - The NATO Alphabet 	
 
@@ -184,8 +150,6 @@ For a live version, go [here](https://replit.com/@grandeurkoe/the-nato-alphabet-
 
 ![The NATO Alphabet](the-nato-alphabet-project/the-nato-alphabet-project.gif)
 
-<hr />
-
 ### Day 032 - Automated Birthday Wisher
 
 This project automatically generates and sends a "Happy birthday" email. Get todays date using the datetime module. Read the contents of the "birthdays.csv" file using the read_csv() function from the pandas library and store it as a dictionary for quick callback. If any of the dates in the dictionary matches with todays date, then randomly select a letter template and replace the [name] in the letter template with the birthday boys/girls name (from dictionary). Finally, send an email to the birthday boy/girl using the smtplib library.
@@ -194,4 +158,47 @@ For a live version, go [here](https://replit.com/@grandeurkoe/automated-birthday
 
 ![Automated Birthday Wisher](automated-birthday-wisher/automated-birthday-wisher.gif)
 
-<hr />
+## Getting Started
+
+### Prerequisites
+
+<b>For Windows:</b>
+<br/> 
+
+Download and Install the latest version of [Python](https://www.python.org/downloads/).<br/><br/>
+Download and Install the latest version of [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/?section=windows).<br/>
+
+
+<b>For Linux:</b>
+<br/> 
+
+<b>Linux</b> comes preinstalled with Python.<br/><br/>
+To install the latest version of PyCharm Community Edition, run the following command:
+```
+sudo snap install pycharm-community --classic
+```
+
+### Installing
+
+You can install all the required packages listed in the requirements.txt file for the project at the same time: 
+
+
+<b>For Windows:</b>
+<br/> 
+```
+python -m pip install -r requirements.txt
+```
+
+## Built With
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ffde57?style=flat-square&logo=python&logoColor=#4584b6" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-4848b6?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="Replit" src="https://img.shields.io/badge/-Replit-CD5C08?style=flat-square&logo=replit&logoColor=white" />
+  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7E1DFB?style=flat-square&logo=obsidian&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-f34f29?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/-Github-14232c?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+## Authors
+
+*Initial work* - [grandeurkoe](https://github.com/grandeurkoe)
