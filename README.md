@@ -165,3 +165,13 @@ For a live version, go [here](https://replit.com/@grandeurkoe/the-quiz-game?v=1)
 ![The Quiz Game](the-quiz-game/the-quiz-game.gif)
 
 <hr />
+
+### Day 024 - Mail Merge
+
+This project generates birthday invite letters. Get birthday invite letter template (starting_letter.txt) and names of invitees (invited_names.txt) from their respective text files. Generate birthday invite letters by replacing [name] in 'starting_letter.txt' with names from 'invited_names.txt'.
+
+For a live version, go [here](https://replit.com/@grandeurkoe/mail-merge-project?v=1)
+
+![Mail Merge](mail-merge-project/mail-merge-project.gif)
+
+<hr />
