@@ -56,7 +56,7 @@ For a live version, go [here](https://replit.com/@grandeurkoe/password-generator
 
 ### Day 007 - Hangman Game
 
-This project simulates the hangman game. Get guess letter as user input. If guessed letter is not in chosen word, then reduce lives by 1. End game when number of lives is reduced to 0 or when the user has guessed the chosen word.
+This project simulates the hangman game. Get guess letter as user input. If guessed letter is not in chosen word, then reduce lives by 1. End game when number of lives are reduced to 0 or when the user has guessed the chosen word.
 
 For a live version, go [here](https://replit.com/@grandeurkoe/hangman?v=1)
 
@@ -101,5 +101,15 @@ This project simulates the blackjack game. Generates cards for both user and com
 For a live version, go [here](https://replit.com/@grandeurkoe/the-blackjack-capstone-project?v=1)
 
 ![The Blackjack Game](the-blackjack-capstone-project/the-blackjack-capstone-project.gif)
+
+<hr />
+
+### Day 012 - Number Guessing Game
+
+This project simulates the number guessing game. Choose difficult option (easy/hard) based on user input. Set number of attempts based on difficulty option. Get guessed number as user input. End game when no more attempts remain.
+
+For a live version, go [here](https://replit.com/@grandeurkoe/number-guessing-game?v=1)
+
+![Number Guessing Game](number-guessing-game/number-guessing-game.gif)
 
 <hr />
