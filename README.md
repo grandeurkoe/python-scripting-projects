@@ -60,3 +60,12 @@ This project encodes a message based on the shift number. The encoded message ca
 For a live version, go [here](https://replit.com/@grandeurkoe/caesar-cipher?v=1)
 
 ![Caesar Cipher](caesar-cipher/caesar-cipher.gif)
+
+
+### Day 009 - Secret Auction
+
+This project simulates a secret auction. Get each bidder's name and bid amount as user input. End secret auction when no more bidders exist and display details of bidder with the highest bid. 
+
+For a live version, go [here](https://replit.com/@grandeurkoe/secret-auction?v=1)
+
+![Secret Auction](secret-auction/secret-auction.gif)
