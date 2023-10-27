@@ -155,3 +155,13 @@ For a live version, go [here](https://replit.com/@grandeurkoe/the-coffee-machine
 ![The Coffee Machine (OOP Version)](the-coffee-machine-oop-version/the-coffee-machine-oop-version.gif)
 
 <hr />
+
+### Day 016 - The Quiz Game
+
+This project simulates the quiz game. Get quiz answer (True/False) as user input. End the quiz game and display user score when no more questions remain.
+
+For a live version, go [here](https://replit.com/@grandeurkoe/the-quiz-game?v=1)
+
+![The Quiz Game](the-quiz-game/the-quiz-game.gif)
+
+<hr />
