@@ -36,7 +36,7 @@ For a live version, go [here](https://replit.com/@grandeurkoe/treasure-island?v=
 
 ### Day 004 - Rock Paper Scissors
 
-This project simulates a simple rock paper scissors game. Get user choice (Rock/Paper/Scissors) as user input. 
+This project simulates a simple rock paper scissors game. Get user choice (Rock/Paper/Scissors) as user input. End game when user either loses, wins or draws.
 
 For a live version, go [here](https://replit.com/@grandeurkoe/rock-paper-scissors?v=1)
 
@@ -96,7 +96,7 @@ For a live version, go [here](https://replit.com/@grandeurkoe/calculator?v=1)
 
 ### Day 011 - The Blackjack Game
 
-This project simulates the blackjack game. Generates cards for both user and computer randomly. Continue game based on user input.
+This project simulates the blackjack game. Generates cards for both user and computer randomly. Calculate user score based on cards drawn. Get user to choose if he wants to draw more cards or not as user input. End game and display the result of blackjack game when either the user or computer wins, draws or loses.
 
 For a live version, go [here](https://replit.com/@grandeurkoe/the-blackjack-capstone-project?v=1)
 
@@ -106,7 +106,7 @@ For a live version, go [here](https://replit.com/@grandeurkoe/the-blackjack-caps
 
 ### Day 012 - Number Guessing Game
 
-This project simulates the number guessing game. Choose difficult option (easy/hard) based on user input. Set number of attempts based on difficulty option. Get guessed number as user input. End game when no more attempts remain.
+This project simulates the number guessing game. Choose difficulty option (easy/hard) based on user input. Set number of attempts based on difficulty option. Get guessed number as user input. End game when no more attempts remain.
 
 For a live version, go [here](https://replit.com/@grandeurkoe/number-guessing-game?v=1)
 
@@ -124,10 +124,10 @@ For a live version, go [here](https://replit.com/@grandeurkoe/debugging?v=1)
 
 ### Day 014 - Higher Lower Game
 
-This project simulates the higher lower game. Get two random social account details. Get user to pick one of the two social account (A/B) as user input. Compare number of followers of the two social account. Compare social account with  higher follower count from previous comparison with another random social account. End game when the user picks any option other than A or B.
+This project simulates the higher lower game. Get two random social account details. Get user to pick one of the two social account (A/B) as user input. Compare number of followers of the two social account. Compare social account with  higher follower count from previous comparison with another random social account. End game when the user picks the social account with a lower follower count.
 
-For a live version, go [here](https://replit.com/@grandeurkoe/number-guessing-game?v=1)
+For a live version, go [here](https://replit.com/@grandeurkoe/higher-lower-game?v=1)
 
-![Higher Lower Game](number-guessing-game/number-guessing-game.gif)
+![Higher Lower Game](higher-lower-game/higher-lower-game.gif)
 
 <hr />
