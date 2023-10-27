@@ -23,8 +23,16 @@ For a live version, go [here](https://replit.com/@grandeurkoe/tip-calculator?v=1
 
 ### Day 003 - Treasure Island
 
-This project calculates tip based on total bill, number of people to split the bill and the tip percentage (10, 12 or 15).
+This project simulates a simple treasure island game.
 
-For a live version, go [here](https://replit.com/@grandeurkoe/tip-calculator?v=1)
+For a live version, go [here](https://replit.com/@grandeurkoe/treasure-island?v=1)
 
-![Tip Calculator](tip-calculator/tip-calculator.gif)
+![Treasure Island](treasure-island/treasure-island.gif)
+
+### Day 003 - Rock Paper Scissors
+
+This project simulates a simple rock paper scissors game.
+
+For a live version, go [here](https://replit.com/@grandeurkoe/rock-paper-scissors?v=1)
+
+![Rock Paper Scissors](rock-paper-scissors/rock-paper-scissors.gif)
