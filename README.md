@@ -113,3 +113,11 @@ For a live version, go [here](https://replit.com/@grandeurkoe/number-guessing-ga
 ![Number Guessing Game](number-guessing-game/number-guessing-game.gif)
 
 <hr />
+
+### Day 013 - Debugger
+
+This project involves reproducing bugs, playing computer (debug line by line) and using the debugger to debug code. 
+
+For a live version, go [here](https://replit.com/@grandeurkoe/debugging?v=1)
+
+<hr />
