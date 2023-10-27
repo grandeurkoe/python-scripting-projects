@@ -44,3 +44,19 @@ This project generates a password based on the number of letters, symbols and in
 For a live version, go [here](https://replit.com/@grandeurkoe/password-generator?v=1)
 
 ![Password Generator](password-generator/password-generator.gif)
+
+### Day 007 - Hangman Game
+
+This project simulates the hangman game. Get guess letter as user input. If guessed letter is not in chosen word, then reduce lives by 1. End game when number of lives is reduced to 0 or when the user has guessed the chosen word.
+
+For a live version, go [here](https://replit.com/@grandeurkoe/hangman?v=1)
+
+![Hangman Game](hangman/hangman.gif)
+
+### Day 008 - Caesar Cipher
+
+This project encodes a message based on the shift number. The encoded message can then be decoded using the same shift number. Switch between encode and decode options based on user input. Also, get message, shift number and encoded message as user input.
+
+For a live version, go [here](https://replit.com/@grandeurkoe/caesar-cipher?v=1)
+
+![Caesar Cipher](caesar-cipher/caesar-cipher.gif)
