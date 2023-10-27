@@ -121,3 +121,13 @@ This project involves reproducing bugs, playing computer (debug line by line) an
 For a live version, go [here](https://replit.com/@grandeurkoe/debugging?v=1)
 
 <hr />
+
+### Day 014 - Higher Lower Game
+
+This project simulates the higher lower game. Get two random social account details. Get user to pick one of the two social account (A/B) as user input. Compare number of followers of the two social account. Compare social account with  higher follower count from previous comparison with another random social account. End game when the user picks any option other than A or B.
+
+For a live version, go [here](https://replit.com/@grandeurkoe/number-guessing-game?v=1)
+
+![Higher Lower Game](number-guessing-game/number-guessing-game.gif)
+
+<hr />
