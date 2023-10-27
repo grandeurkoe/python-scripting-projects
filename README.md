@@ -93,3 +93,13 @@ For a live version, go [here](https://replit.com/@grandeurkoe/calculator?v=1)
 ![Calculator](calculator/calculator.gif)
 
 <hr />
+
+### Day 011 - The Blackjack Game
+
+This project simulates the blackjack game. Generates cards for both user and computer randomly. Continue game based on user input.
+
+For a live version, go [here](https://replit.com/@grandeurkoe/the-blackjack-capstone-project?v=1)
+
+![The Blackjack Game](the-blackjack-capstone-project/the-blackjack-capstone-project.gif)
+
+<hr />
