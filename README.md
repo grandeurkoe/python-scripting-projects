@@ -69,3 +69,11 @@ This project simulates a secret auction. Get each bidder's name and bid amount a
 For a live version, go [here](https://replit.com/@grandeurkoe/secret-auction?v=1)
 
 ![Secret Auction](secret-auction/secret-auction.gif)
+
+### Day 010 - Calculator
+
+This project simulates a basic calculator. Get first number, operation (+,-,*,/) and next number as user input. Also, continue calculation based on user input.
+
+For a live version, go [here](https://replit.com/@grandeurkoe/calculator?v=1)
+
+![Calculator](calculator/calculator.gif)
