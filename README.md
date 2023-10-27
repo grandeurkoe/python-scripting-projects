@@ -86,7 +86,7 @@ For a live version, go [here](https://replit.com/@grandeurkoe/secret-auction?v=1
 
 ### Day 010 - Calculator
 
-This project simulates a basic calculator. Get first number, operation (+,-,*,/) and next number as user input. Also, continue calculation based on user input.
+This project simulates a basic calculator. Get first number, operation (+,-,*,/) and next number as user input. Also, continue calculations based on user input.
 
 For a live version, go [here](https://replit.com/@grandeurkoe/calculator?v=1)
 
@@ -150,8 +150,8 @@ For a live version, go [here](https://replit.com/@grandeurkoe/the-coffee-machine
 
 This project simulates the coffee machine. This is the OOP Version of the above project.
 
-For a live version, go [here](https://replit.com/@grandeurkoe/the-coffee-machine?v=1)
+For a live version, go [here](https://replit.com/@grandeurkoe/the-coffee-machine-oop-version?v=1)
 
-![The Coffee Machine (OOP Version)](the-coffee-machine/the-coffee-machine.gif)
+![The Coffee Machine (OOP Version)](the-coffee-machine-oop-version/the-coffee-machine-oop-version.gif)
 
 <hr />
