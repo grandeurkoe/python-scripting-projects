@@ -168,10 +168,20 @@ For a live version, go [here](https://replit.com/@grandeurkoe/the-quiz-game?v=1)
 
 ### Day 024 - Mail Merge
 
-This project generates birthday invite letters. Get birthday invite letter template (starting_letter.txt) and names of invitees (invited_names.txt) from their respective text files. Generate birthday invite letters by replacing [name] in 'starting_letter.txt' with names from 'invited_names.txt'.
+This project generates birthday invite letters as text files using contents from other text files. Get birthday invite letter template (starting_letter.txt) and names of invitees (invited_names.txt) from their respective text files. Generate birthday invite letters by replacing [name] in 'starting_letter.txt' with names from 'invited_names.txt'.
 
 For a live version, go [here](https://replit.com/@grandeurkoe/mail-merge-project?v=1)
 
 ![Mail Merge](mail-merge-project/mail-merge-project.gif)
+
+<hr />
+
+### Day 026 - The NATO Alphabet 	
+
+This project generates the TELEPHONY for a given word (where each individual letter is the NATO Phonetic Alphabet). Read the contents of the "nato_phonetic_alphabet.csv" files using the pandas library and store it as a dictionary for quick callback. Get the word for which you want to generate the TELEPHONY as user input. Generate the TELEPHONY for each NATO phonetic alphabet in the word and display it.
+
+For a live version, go [here](https://replit.com/@grandeurkoe/the-nato-alphabet-project?v=1)
+
+![The NATO Alphabet](the-nato-alphabet-project/the-nato-alphabet-project.gif)
 
 <hr />
