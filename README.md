@@ -12,6 +12,8 @@ For a live version, go [here](https://replit.com/@grandeurkoe/band-name-generato
 
 ![Band Name Generator](band-name-generator/band-name-generator.gif)
 
+<hr />
+
 ### Day 002 - Tip Calculator
 
 This project calculates tip based on total bill, number of people to split the bill and the tip percentage (10, 12 or 15). Get total bill, number of people to split the bill and the tip percentage as user input.
@@ -20,6 +22,7 @@ For a live version, go [here](https://replit.com/@grandeurkoe/tip-calculator?v=1
 
 ![Tip Calculator](tip-calculator/tip-calculator.gif)
 
+<hr />
 
 ### Day 003 - Treasure Island
 
@@ -29,6 +32,8 @@ For a live version, go [here](https://replit.com/@grandeurkoe/treasure-island?v=
 
 ![Treasure Island](treasure-island/treasure-island.gif)
 
+<hr />
+
 ### Day 004 - Rock Paper Scissors
 
 This project simulates a simple rock paper scissors game. Get user choice (Rock/Paper/Scissors) as user input. 
@@ -36,6 +41,8 @@ This project simulates a simple rock paper scissors game. Get user choice (Rock/
 For a live version, go [here](https://replit.com/@grandeurkoe/rock-paper-scissors?v=1)
 
 ![Rock Paper Scissors](rock-paper-scissors/rock-paper-scissors.gif)
+
+<hr />
 
 ### Day 005 - Password Generator
 
@@ -45,6 +52,8 @@ For a live version, go [here](https://replit.com/@grandeurkoe/password-generator
 
 ![Password Generator](password-generator/password-generator.gif)
 
+<hr />
+
 ### Day 007 - Hangman Game
 
 This project simulates the hangman game. Get guess letter as user input. If guessed letter is not in chosen word, then reduce lives by 1. End game when number of lives is reduced to 0 or when the user has guessed the chosen word.
@@ -52,6 +61,8 @@ This project simulates the hangman game. Get guess letter as user input. If gues
 For a live version, go [here](https://replit.com/@grandeurkoe/hangman?v=1)
 
 ![Hangman Game](hangman/hangman.gif)
+
+<hr />
 
 ### Day 008 - Caesar Cipher
 
@@ -61,6 +72,7 @@ For a live version, go [here](https://replit.com/@grandeurkoe/caesar-cipher?v=1)
 
 ![Caesar Cipher](caesar-cipher/caesar-cipher.gif)
 
+<hr />
 
 ### Day 009 - Secret Auction
 
@@ -70,6 +82,8 @@ For a live version, go [here](https://replit.com/@grandeurkoe/secret-auction?v=1
 
 ![Secret Auction](secret-auction/secret-auction.gif)
 
+<hr />
+
 ### Day 010 - Calculator
 
 This project simulates a basic calculator. Get first number, operation (+,-,*,/) and next number as user input. Also, continue calculation based on user input.
@@ -77,3 +91,5 @@ This project simulates a basic calculator. Get first number, operation (+,-,*,/)
 For a live version, go [here](https://replit.com/@grandeurkoe/calculator?v=1)
 
 ![Calculator](calculator/calculator.gif)
+
+<hr />
